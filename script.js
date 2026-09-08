@@ -1,11 +1,11 @@
 // ================= إعدادات الموقع =================
 
 // الباسورد
-const PASSWORD = "love";
+const PASSWORD = "ssss";
 
 // تاريخ أول مقابلة
 // غيّر التاريخ ده للتاريخ الحقيقي
-const firstMeetingDate = new Date("February 15, 2026 20:00:00");
+const firstMeetingDate = new Date("February 13, 2011 20:00:00");
 
 
 // ================= شاشة الباسورد =================
